@@ -77,7 +77,7 @@ all-about-kotlin/
 │   ├── higher-order-func/
 │   ├── scope-functions/
 │   └── exercises/
-├── 04-coroutines/            # concurrency di kotlin
+├── coroutines/            # concurrency di kotlin
 │   ├── basics/
 │   ├── structured-concurrency/
 │   ├── flow/
